@@ -21,9 +21,7 @@ class Program
         {
             Console.WriteLine("Really delete this file? (y/n)");
             confirm = Console.ReadLine();
-        } while (confirm != "y");
-
-        Console.WriteLine("File deleted");
+        } while (confirm is not ("y" or "n"));
 
         if (confirm == "y")
         {
