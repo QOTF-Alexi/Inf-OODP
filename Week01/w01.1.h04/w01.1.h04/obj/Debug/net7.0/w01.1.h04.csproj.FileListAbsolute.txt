@@ -1,0 +1,15 @@
+/home/benno/Documents/OODP/Week01/w01.1.h04/w01.1.h04/bin/Debug/net7.0/w01.1.h04
+/home/benno/Documents/OODP/Week01/w01.1.h04/w01.1.h04/bin/Debug/net7.0/w01.1.h04.deps.json
+/home/benno/Documents/OODP/Week01/w01.1.h04/w01.1.h04/bin/Debug/net7.0/w01.1.h04.runtimeconfig.json
+/home/benno/Documents/OODP/Week01/w01.1.h04/w01.1.h04/bin/Debug/net7.0/w01.1.h04.dll
+/home/benno/Documents/OODP/Week01/w01.1.h04/w01.1.h04/bin/Debug/net7.0/w01.1.h04.pdb
+/home/benno/Documents/OODP/Week01/w01.1.h04/w01.1.h04/obj/Debug/net7.0/w01.1.h04.csproj.AssemblyReference.cache
+/home/benno/Documents/OODP/Week01/w01.1.h04/w01.1.h04/obj/Debug/net7.0/w01.1.h04.GeneratedMSBuildEditorConfig.editorconfig
+/home/benno/Documents/OODP/Week01/w01.1.h04/w01.1.h04/obj/Debug/net7.0/w01.1.h04.AssemblyInfoInputs.cache
+/home/benno/Documents/OODP/Week01/w01.1.h04/w01.1.h04/obj/Debug/net7.0/w01.1.h04.AssemblyInfo.cs
+/home/benno/Documents/OODP/Week01/w01.1.h04/w01.1.h04/obj/Debug/net7.0/w01.1.h04.csproj.CoreCompileInputs.cache
+/home/benno/Documents/OODP/Week01/w01.1.h04/w01.1.h04/obj/Debug/net7.0/w01.1.h04.dll
+/home/benno/Documents/OODP/Week01/w01.1.h04/w01.1.h04/obj/Debug/net7.0/refint/w01.1.h04.dll
+/home/benno/Documents/OODP/Week01/w01.1.h04/w01.1.h04/obj/Debug/net7.0/w01.1.h04.pdb
+/home/benno/Documents/OODP/Week01/w01.1.h04/w01.1.h04/obj/Debug/net7.0/w01.1.h04.genruntimeconfig.cache
+/home/benno/Documents/OODP/Week01/w01.1.h04/w01.1.h04/obj/Debug/net7.0/ref/w01.1.h04.dll
