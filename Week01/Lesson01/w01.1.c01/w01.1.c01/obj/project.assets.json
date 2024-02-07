@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/benno/Documents/OODP/Week01/w01.1.c01/w01.1.c01/w01.1.c01.csproj",
+      "projectUniqueName": "/home/benno/Documents/Inf-OODP/Week01/Lesson01/w01.1.c01/w01.1.c01/w01.1.c01.csproj",
       "projectName": "w01.1.c01",
-      "projectPath": "/home/benno/Documents/OODP/Week01/w01.1.c01/w01.1.c01/w01.1.c01.csproj",
+      "projectPath": "/home/benno/Documents/Inf-OODP/Week01/Lesson01/w01.1.c01/w01.1.c01/w01.1.c01.csproj",
       "packagesPath": "/home/benno/.nuget/packages/",
-      "outputPath": "/home/benno/Documents/OODP/Week01/w01.1.c01/w01.1.c01/obj/",
+      "outputPath": "/home/benno/Documents/Inf-OODP/Week01/Lesson01/w01.1.c01/w01.1.c01/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/benno/.nuget/NuGet/NuGet.Config"
