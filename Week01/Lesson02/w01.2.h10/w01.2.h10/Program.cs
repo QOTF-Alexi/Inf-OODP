@@ -58,7 +58,6 @@
         playAnother = Console.ReadLine().ToLower();
         if (playAnother == "y")
         {
-            won = false;
             GuessingGame();
         }
         else
