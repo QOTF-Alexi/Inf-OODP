@@ -3,6 +3,10 @@
     public static void Main()
     {
         Console.WriteLine("Time to play Guess The Number!");
+        GuessingGame();
+    }
+
+    public static void GuessingGame() {
         Console.WriteLine("Give the minimum number:");
         int inMin = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("Give the maximum number:");
@@ -28,7 +32,7 @@
         }
 
         Random randomGenerator = new Random(0);
-        int randInt = randomGenerator.Next(min, max);
+        int randInt = randomGenerator.Next(min, max+1);
         bool won = false;
         while (won == false)
         {
@@ -55,7 +59,7 @@
         if (playAnother == "y")
         {
             won = false;
-            Main();
+            GuessingGame();
         }
         else
         {
