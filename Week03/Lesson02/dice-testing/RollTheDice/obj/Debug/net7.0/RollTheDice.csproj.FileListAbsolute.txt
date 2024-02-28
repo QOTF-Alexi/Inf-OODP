@@ -1,0 +1,15 @@
+/home/benno/Documents/Inf-OODP/Week03/Lesson02/dice-testing/RollTheDice/bin/Debug/net7.0/RollTheDice
+/home/benno/Documents/Inf-OODP/Week03/Lesson02/dice-testing/RollTheDice/bin/Debug/net7.0/RollTheDice.deps.json
+/home/benno/Documents/Inf-OODP/Week03/Lesson02/dice-testing/RollTheDice/bin/Debug/net7.0/RollTheDice.runtimeconfig.json
+/home/benno/Documents/Inf-OODP/Week03/Lesson02/dice-testing/RollTheDice/bin/Debug/net7.0/RollTheDice.dll
+/home/benno/Documents/Inf-OODP/Week03/Lesson02/dice-testing/RollTheDice/bin/Debug/net7.0/RollTheDice.pdb
+/home/benno/Documents/Inf-OODP/Week03/Lesson02/dice-testing/RollTheDice/obj/Debug/net7.0/RollTheDice.csproj.AssemblyReference.cache
+/home/benno/Documents/Inf-OODP/Week03/Lesson02/dice-testing/RollTheDice/obj/Debug/net7.0/RollTheDice.GeneratedMSBuildEditorConfig.editorconfig
+/home/benno/Documents/Inf-OODP/Week03/Lesson02/dice-testing/RollTheDice/obj/Debug/net7.0/RollTheDice.AssemblyInfoInputs.cache
+/home/benno/Documents/Inf-OODP/Week03/Lesson02/dice-testing/RollTheDice/obj/Debug/net7.0/RollTheDice.AssemblyInfo.cs
+/home/benno/Documents/Inf-OODP/Week03/Lesson02/dice-testing/RollTheDice/obj/Debug/net7.0/RollTheDice.csproj.CoreCompileInputs.cache
+/home/benno/Documents/Inf-OODP/Week03/Lesson02/dice-testing/RollTheDice/obj/Debug/net7.0/RollTheDice.dll
+/home/benno/Documents/Inf-OODP/Week03/Lesson02/dice-testing/RollTheDice/obj/Debug/net7.0/refint/RollTheDice.dll
+/home/benno/Documents/Inf-OODP/Week03/Lesson02/dice-testing/RollTheDice/obj/Debug/net7.0/RollTheDice.pdb
+/home/benno/Documents/Inf-OODP/Week03/Lesson02/dice-testing/RollTheDice/obj/Debug/net7.0/RollTheDice.genruntimeconfig.cache
+/home/benno/Documents/Inf-OODP/Week03/Lesson02/dice-testing/RollTheDice/obj/Debug/net7.0/ref/RollTheDice.dll

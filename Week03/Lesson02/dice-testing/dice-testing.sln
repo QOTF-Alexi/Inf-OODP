@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollTheDice", "RollTheDice\RollTheDice.csproj", "{4C82F638-EAA4-4B49-B3AD-F8868827BAAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollTheDiceTest", "RollTheDiceTest\RollTheDiceTest.csproj", "{0AF9927C-F9C0-41E2-A0F8-3F4FB32123EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C82F638-EAA4-4B49-B3AD-F8868827BAAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C82F638-EAA4-4B49-B3AD-F8868827BAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C82F638-EAA4-4B49-B3AD-F8868827BAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C82F638-EAA4-4B49-B3AD-F8868827BAAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AF9927C-F9C0-41E2-A0F8-3F4FB32123EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF9927C-F9C0-41E2-A0F8-3F4FB32123EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AF9927C-F9C0-41E2-A0F8-3F4FB32123EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF9927C-F9C0-41E2-A0F8-3F4FB32123EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
