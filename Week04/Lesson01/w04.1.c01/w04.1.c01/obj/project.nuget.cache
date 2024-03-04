@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tt9dz5/gkWKmPFuLckYFG+dCP0ZYHs9wXDUw3g5IWew7KDZ+7fP/fnI/tevi4+qCkpuBNOoRs4CyQewgdtTWpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\benno\\RiderProjects\\Inf-OODP\\Week04\\Lesson01\\w04.1.c01\\w04.1.c01\\w04.1.c01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\benno\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

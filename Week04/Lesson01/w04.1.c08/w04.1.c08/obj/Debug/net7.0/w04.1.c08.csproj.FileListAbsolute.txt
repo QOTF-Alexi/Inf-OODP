@@ -1,0 +1,17 @@
+C:\Users\benno\RiderProjects\Inf-OODP\Week04\Lesson01\w04.1.c08\w04.1.c08\bin\Debug\net7.0\w04.1.c08.exe
+C:\Users\benno\RiderProjects\Inf-OODP\Week04\Lesson01\w04.1.c08\w04.1.c08\bin\Debug\net7.0\w04.1.c08.deps.json
+C:\Users\benno\RiderProjects\Inf-OODP\Week04\Lesson01\w04.1.c08\w04.1.c08\bin\Debug\net7.0\w04.1.c08.runtimeconfig.json
+C:\Users\benno\RiderProjects\Inf-OODP\Week04\Lesson01\w04.1.c08\w04.1.c08\bin\Debug\net7.0\w04.1.c08.dll
+C:\Users\benno\RiderProjects\Inf-OODP\Week04\Lesson01\w04.1.c08\w04.1.c08\bin\Debug\net7.0\w04.1.c08.pdb
+C:\Users\benno\RiderProjects\Inf-OODP\Week04\Lesson01\w04.1.c08\w04.1.c08\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\benno\RiderProjects\Inf-OODP\Week04\Lesson01\w04.1.c08\w04.1.c08\obj\Debug\net7.0\w04.1.c08.csproj.AssemblyReference.cache
+C:\Users\benno\RiderProjects\Inf-OODP\Week04\Lesson01\w04.1.c08\w04.1.c08\obj\Debug\net7.0\w04.1.c08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benno\RiderProjects\Inf-OODP\Week04\Lesson01\w04.1.c08\w04.1.c08\obj\Debug\net7.0\w04.1.c08.AssemblyInfoInputs.cache
+C:\Users\benno\RiderProjects\Inf-OODP\Week04\Lesson01\w04.1.c08\w04.1.c08\obj\Debug\net7.0\w04.1.c08.AssemblyInfo.cs
+C:\Users\benno\RiderProjects\Inf-OODP\Week04\Lesson01\w04.1.c08\w04.1.c08\obj\Debug\net7.0\w04.1.c08.csproj.CoreCompileInputs.cache
+C:\Users\benno\RiderProjects\Inf-OODP\Week04\Lesson01\w04.1.c08\w04.1.c08\obj\Debug\net7.0\w04.1.c08.csproj.CopyComplete
+C:\Users\benno\RiderProjects\Inf-OODP\Week04\Lesson01\w04.1.c08\w04.1.c08\obj\Debug\net7.0\w04.1.c08.dll
+C:\Users\benno\RiderProjects\Inf-OODP\Week04\Lesson01\w04.1.c08\w04.1.c08\obj\Debug\net7.0\refint\w04.1.c08.dll
+C:\Users\benno\RiderProjects\Inf-OODP\Week04\Lesson01\w04.1.c08\w04.1.c08\obj\Debug\net7.0\w04.1.c08.pdb
+C:\Users\benno\RiderProjects\Inf-OODP\Week04\Lesson01\w04.1.c08\w04.1.c08\obj\Debug\net7.0\w04.1.c08.genruntimeconfig.cache
+C:\Users\benno\RiderProjects\Inf-OODP\Week04\Lesson01\w04.1.c08\w04.1.c08\obj\Debug\net7.0\ref\w04.1.c08.dll
