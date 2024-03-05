@@ -1,0 +1,5 @@
+/home/benno/Documents/Inf-OODP/Week04/Lesson01/w04.1.h02/w04.1.h02/obj/Debug/net7.0/w04.1.h02.csproj.AssemblyReference.cache
+/home/benno/Documents/Inf-OODP/Week04/Lesson01/w04.1.h02/w04.1.h02/obj/Debug/net7.0/w04.1.h02.GeneratedMSBuildEditorConfig.editorconfig
+/home/benno/Documents/Inf-OODP/Week04/Lesson01/w04.1.h02/w04.1.h02/obj/Debug/net7.0/w04.1.h02.AssemblyInfoInputs.cache
+/home/benno/Documents/Inf-OODP/Week04/Lesson01/w04.1.h02/w04.1.h02/obj/Debug/net7.0/w04.1.h02.AssemblyInfo.cs
+/home/benno/Documents/Inf-OODP/Week04/Lesson01/w04.1.h02/w04.1.h02/obj/Debug/net7.0/w04.1.h02.csproj.CoreCompileInputs.cache
