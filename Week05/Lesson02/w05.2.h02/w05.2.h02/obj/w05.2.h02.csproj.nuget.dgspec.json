@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\benno\\RiderProjects\\Inf-OODP\\Week04\\Lesson01\\w04.1.c08\\w04.1.c08\\w04.1.c08.csproj": {}
+    "C:\\Users\\benno\\RiderProjects\\Inf-OODP\\Week05\\Lesson02\\w05.2.h02\\w05.2.h02\\w05.2.h02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\benno\\RiderProjects\\Inf-OODP\\Week04\\Lesson01\\w04.1.c08\\w04.1.c08\\w04.1.c08.csproj": {
+    "C:\\Users\\benno\\RiderProjects\\Inf-OODP\\Week05\\Lesson02\\w05.2.h02\\w05.2.h02\\w05.2.h02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\benno\\RiderProjects\\Inf-OODP\\Week04\\Lesson01\\w04.1.c08\\w04.1.c08\\w04.1.c08.csproj",
-        "projectName": "w04.1.c08",
-        "projectPath": "C:\\Users\\benno\\RiderProjects\\Inf-OODP\\Week04\\Lesson01\\w04.1.c08\\w04.1.c08\\w04.1.c08.csproj",
+        "projectUniqueName": "C:\\Users\\benno\\RiderProjects\\Inf-OODP\\Week05\\Lesson02\\w05.2.h02\\w05.2.h02\\w05.2.h02.csproj",
+        "projectName": "w05.2.h02",
+        "projectPath": "C:\\Users\\benno\\RiderProjects\\Inf-OODP\\Week05\\Lesson02\\w05.2.h02\\w05.2.h02\\w05.2.h02.csproj",
         "packagesPath": "C:\\Users\\benno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\benno\\RiderProjects\\Inf-OODP\\Week04\\Lesson01\\w04.1.c08\\w04.1.c08\\obj\\",
+        "outputPath": "C:\\Users\\benno\\RiderProjects\\Inf-OODP\\Week05\\Lesson02\\w05.2.h02\\w05.2.h02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\benno\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,12 +37,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
