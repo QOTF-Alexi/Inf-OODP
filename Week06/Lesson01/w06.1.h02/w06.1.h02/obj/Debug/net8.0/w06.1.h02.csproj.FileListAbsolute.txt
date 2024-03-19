@@ -1,0 +1,14 @@
+C:\Users\Foxydiot\source\repos\w06.1.h02\w06.1.h02\bin\Debug\net8.0\w06.1.h02.exe
+C:\Users\Foxydiot\source\repos\w06.1.h02\w06.1.h02\bin\Debug\net8.0\w06.1.h02.deps.json
+C:\Users\Foxydiot\source\repos\w06.1.h02\w06.1.h02\bin\Debug\net8.0\w06.1.h02.runtimeconfig.json
+C:\Users\Foxydiot\source\repos\w06.1.h02\w06.1.h02\bin\Debug\net8.0\w06.1.h02.dll
+C:\Users\Foxydiot\source\repos\w06.1.h02\w06.1.h02\bin\Debug\net8.0\w06.1.h02.pdb
+C:\Users\Foxydiot\source\repos\w06.1.h02\w06.1.h02\obj\Debug\net8.0\w06.1.h02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Foxydiot\source\repos\w06.1.h02\w06.1.h02\obj\Debug\net8.0\w06.1.h02.AssemblyInfoInputs.cache
+C:\Users\Foxydiot\source\repos\w06.1.h02\w06.1.h02\obj\Debug\net8.0\w06.1.h02.AssemblyInfo.cs
+C:\Users\Foxydiot\source\repos\w06.1.h02\w06.1.h02\obj\Debug\net8.0\w06.1.h02.csproj.CoreCompileInputs.cache
+C:\Users\Foxydiot\source\repos\w06.1.h02\w06.1.h02\obj\Debug\net8.0\w06.1.h02.dll
+C:\Users\Foxydiot\source\repos\w06.1.h02\w06.1.h02\obj\Debug\net8.0\refint\w06.1.h02.dll
+C:\Users\Foxydiot\source\repos\w06.1.h02\w06.1.h02\obj\Debug\net8.0\w06.1.h02.pdb
+C:\Users\Foxydiot\source\repos\w06.1.h02\w06.1.h02\obj\Debug\net8.0\w06.1.h02.genruntimeconfig.cache
+C:\Users\Foxydiot\source\repos\w06.1.h02\w06.1.h02\obj\Debug\net8.0\ref\w06.1.h02.dll
