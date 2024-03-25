@@ -1,5 +1,7 @@
 ﻿public class Ninja : Fighter
 {
+    public override int AttackRange { get; } = 5;
+
     public Ninja(string name, Weapon weapon) : base(name, weapon)
     {
     }
@@ -13,7 +15,7 @@
         else
         {
             int attack = (BaseAttack + MainWeapon.Damage) * 4;
-            EquipMainWeapon(null);
+            MainWeapon = null;
             return attack;
         }
     }

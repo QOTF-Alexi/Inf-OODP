@@ -11,8 +11,8 @@
         if (HP - 20 > 0)
         {
             TakeDamage(20);
-            return BaseAttack * 2 + (MainWeapon is null ? 0 : MainWeapon.Damage) + (Weapon2 is null ? 0 : Weapon2.Damage);
+            return (BaseAttack * 2 + (MainWeapon is null ? 0 : MainWeapon.Damage) + (Weapon2 is null ? 0 : Weapon2.Damage)) * 2;
         }
-        return BaseAttack + (MainWeapon is null ? 0 : MainWeapon.Damage) + (Weapon2 is null ? 0 : Weapon2.Damage);
+        return BaseAttack * 2 + (MainWeapon is null ? 0 : MainWeapon.Damage) + (Weapon2 is null ? 0 : Weapon2.Damage);
     }
 }

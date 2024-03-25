@@ -8,9 +8,9 @@
         private set => _hp = value >= 0 ? value : 0;
     }
     public bool IsAlive { get => HP > 0; }
-    public int AttackRange { get; } = 1;
+    public virtual int AttackRange { get; } = 1;
     public int BaseAttack { get; } = 5;
-    public Weapon MainWeapon { get; private set; }
+    public Weapon MainWeapon { get; protected set; }
 
     public Fighter(string name, Weapon weapon)
         : this(name, weapon, 100) { }
@@ -23,7 +23,10 @@
 
     public virtual void EquipMainWeapon(Weapon weapon)
     {
-        MainWeapon = weapon;
+        if (weapon.GetType() != typeof(RangedWeapon))
+        {
+            MainWeapon = weapon;
+        }
     }
 
     public virtual int Attack() => BaseAttack + (MainWeapon is null ? 0 : MainWeapon.Damage);
