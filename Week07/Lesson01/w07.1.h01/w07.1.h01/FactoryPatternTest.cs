@@ -37,7 +37,7 @@ public class FactoryPatternTest
         // Assert that both the document BackGroundColor, FontColor and ButtonColor contain the expected values for this theme.
         Assert.AreEqual(LightModeVS.BackGroundColor, "White");
         Assert.AreEqual(LightModeVS.FontColor, "Black");
-        Assert.AreEqual(LightModeVS.BackGroundColor, "Light blue");
+        Assert.AreEqual(LightModeVS.ButtonColor, "Light blue");
     }
 
     [TestMethod]
@@ -50,7 +50,7 @@ public class FactoryPatternTest
         // Assert that both the document BackGroundColor, FontColor and ButtonColor contain the expected values for this theme.
         Assert.AreEqual(LightModeVS.BackGroundColor, "Black");
         Assert.AreEqual(LightModeVS.FontColor, "White");
-        Assert.AreEqual(LightModeVS.BackGroundColor, "Light yellow");
+        Assert.AreEqual(LightModeVS.ButtonColor, "Light yellow");
 
     }
 }
