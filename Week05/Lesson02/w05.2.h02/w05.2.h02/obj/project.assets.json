@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\benno\\.nuget\\packages\\": {}
+    "/home/benno/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\benno\\RiderProjects\\Inf-OODP\\Week05\\Lesson02\\w05.2.h02\\w05.2.h02\\w05.2.h02.csproj",
+      "projectUniqueName": "/home/benno/Documents/Inf-OODP/Week05/Lesson02/w05.2.h02/w05.2.h02/w05.2.h02.csproj",
       "projectName": "w05.2.h02",
-      "projectPath": "C:\\Users\\benno\\RiderProjects\\Inf-OODP\\Week05\\Lesson02\\w05.2.h02\\w05.2.h02\\w05.2.h02.csproj",
-      "packagesPath": "C:\\Users\\benno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\benno\\RiderProjects\\Inf-OODP\\Week05\\Lesson02\\w05.2.h02\\w05.2.h02\\obj\\",
+      "projectPath": "/home/benno/Documents/Inf-OODP/Week05/Lesson02/w05.2.h02/w05.2.h02/w05.2.h02.csproj",
+      "packagesPath": "/home/benno/.nuget/packages/",
+      "outputPath": "/home/benno/Documents/Inf-OODP/Week05/Lesson02/w05.2.h02/w05.2.h02/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\benno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/benno/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.117/RuntimeIdentifierGraph.json"
       }
     }
   }
