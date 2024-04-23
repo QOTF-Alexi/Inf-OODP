@@ -1,6 +1,7 @@
 ﻿public class Tower<TShape> where TShape : IStackable
 {
     TShape[] Shapes { get; }
+    private int _currentIndex = 0;
     public int Index { get; set; } = 0;
 
     public Tower(int shapeSize)
@@ -15,9 +16,10 @@
 
     public void Add(TShape shape)
     {
-        if (Shapes.Count() < Shapes.Length)
+        if (_currentIndex < Shapes.Length)
         {
-            Shapes.Append(shape);
+            Shapes[_currentIndex] = shape;
+            _currentIndex++;
         }
     }
 

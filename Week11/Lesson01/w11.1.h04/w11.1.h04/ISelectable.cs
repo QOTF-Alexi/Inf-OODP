@@ -2,5 +2,5 @@
 {
     public void Select();
     public void Deselect();
-    public bool IsSelected { get; set; }
+    public bool IsSelected { get; }
 }

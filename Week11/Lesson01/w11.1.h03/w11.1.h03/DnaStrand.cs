@@ -9,16 +9,16 @@
             switch (c)
             {
                 case 'A':
-                    inverseStrand.Append('T');
+                    inverseStrand += 'T';
                     break;
                 case 'T':
-                    inverseStrand.Append('A');
+                    inverseStrand += 'A';
                     break;
                 case 'C':
-                    inverseStrand.Append('G');
+                    inverseStrand+= 'G';
                     break;
                 case 'G':
-                    inverseStrand.Append('C');
+                    inverseStrand += 'C';
                     break;
             }
         }
@@ -38,8 +38,8 @@
         string transcribedStrand = "";
         foreach (char c in dnaStrand)
         {
-            if (c == 'T') transcribedStrand.Append('U');
-            else transcribedStrand.Append(c);
+            if (c == 'T') transcribedStrand += 'U';
+            else transcribedStrand+= c;
         }
         return transcribedStrand;
     }
@@ -50,7 +50,7 @@
         int hammingDistance = 0;
         for (int i = 0; i < dnaStrand1.Length; i++)
         {
-            if (dnaStrand1[i] == dnaStrand2[i]) hammingDistance += 1;
+            if (dnaStrand1[i] != dnaStrand2[i]) hammingDistance += 1;
         }
         return hammingDistance;
     }

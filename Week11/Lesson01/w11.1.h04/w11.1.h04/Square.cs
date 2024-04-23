@@ -1,4 +1,4 @@
-﻿public class Square : ISelectable, IStackable
+﻿public class Square : Shape, ISelectable, IStackable
 {
     public bool IsSelected { get; set; } = false;
     public double Size { get; }
@@ -17,5 +17,4 @@
     {
         IsSelected = false;
     }
-}
 }
