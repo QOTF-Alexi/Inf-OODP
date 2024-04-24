@@ -11,6 +11,7 @@ public class Person : IEquatable<Person>
     
     public override bool Equals(object? other)
     {
+        if (this is null && other is null) return true;
         if (other is null || other.GetType() != typeof(Person) && other.GetType() != typeof(Student)) return false;
         return Equals((Person)other);
     }
@@ -22,13 +23,15 @@ public class Person : IEquatable<Person>
 
     public static bool operator ==(Person obj1, object obj)
     {
+        if (obj is null && obj1 is null) return true;
         if (obj is null || obj1 is null) return false;
         return obj1.Equals(obj);
     }
     
     public static bool operator !=(Person obj1, object obj)
     {
-        if (obj is null || obj1 is null) return false;
+        if (obj is null && obj1 is null) return false;
+        if (obj is null || obj1 is null) return true;
         return !obj1.Equals(obj);
     }
 }
