@@ -15,7 +15,6 @@
         RecReverseArray(array, i + 1, j - 1);
     }
 
-
     public static void PrintArray<T>(T[] arr)
     {
         foreach (T elem in arr)
