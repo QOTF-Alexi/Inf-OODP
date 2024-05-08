@@ -25,7 +25,7 @@
                 new("1.3", new List<Item<string>>() {
                     new("1.3.1"), }),
                 new("1.4") }
-            );
+        );
 
         Console.WriteLine("Entire structure:");
         TopDown.Display(root);
@@ -48,8 +48,8 @@
                     new("2.2.2"),
                     new("2.2.3"), }),
                 new("2.3"),
-                new("2.3.1") }
-            );
+                    new("2.3.1") }
+        );
 
         Console.WriteLine("Entire structure:");
         TopDown.Display(root);

@@ -18,6 +18,22 @@
 
     public static Item<T> Find<T>(Item<T> item, T key)
     {
-        //Your code goes here
+        if (item == null)
+            return null;
+
+        if (EqualityComparer<T>.Default.Equals(item.Value, key))
+            return item;
+
+        if (item.SubItems != null)
+        {
+            foreach (var subItem in item.SubItems)
+            {
+                var foundItem = Find(subItem, key);
+                if (foundItem != null)
+                    return foundItem;
+            }
+        }
+
+        return null;
     }
 }
