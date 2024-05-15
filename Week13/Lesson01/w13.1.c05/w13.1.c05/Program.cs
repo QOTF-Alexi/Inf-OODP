@@ -33,6 +33,6 @@
     // GetPriceCalculator goes here
     public static Func<double, Func<double, double>> GetPriceCalculator(double taxRate)
     {
-        return price => discount => (price * (1 - discount)) * (1 + taxRate);
+        return (discount) => { return price => price * (1 - discount) * (taxRate + 1); };
     }
 }
