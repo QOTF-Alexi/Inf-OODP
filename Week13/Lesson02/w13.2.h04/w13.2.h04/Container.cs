@@ -1,4 +1,6 @@
-﻿public class Container
+﻿using System.Globalization;
+
+public class Container
 {
     public string Code { get; }
     public string Manifest { get; }
@@ -13,11 +15,12 @@
         Manifest = manifest;
         Categories = categories;
         Origin = origin;
-        Weight = Math.Round(Convert.ToDouble(weight) * 0.45359237, 2);
+        var validWeight = weight.Replace(" lbs", "");
+        Weight = Math.Round(Convert.ToDouble(validWeight) * 0.45359237, 2);
     }
 
     public override string ToString()
     {
-        return $"Container(Code:'{Code}', Manifest:'{Manifest}', Categories:'{Categories}', Origin:'{Origin}', Status:'{Status}', Weight:'{Weight}')";
+        return $"Container(Code:'{Code}', Manifest:'{Manifest}', Categories:'{String.Join(',', Categories)}', Origin:'{Origin}', Status:'{Status}', Weight:'{Weight}')";
     }
 }
