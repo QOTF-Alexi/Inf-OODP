@@ -1,6 +1,6 @@
 # Assignments and problems for RUAS Informatica OODP programme.
 ## What?
-Contains all Codegrade assignments for RUAS Informatica.
+Contains all Codegrade assignments for the RUAS Informatica OODP subject.
 Not everything is graded 10/10 though.
 ### But Lessons 7.2, 8.1, 8.2, 9.1, 9.2 and 10.1 aren't there!
 That's because those do not exist in the course. Refer to the course manual.
